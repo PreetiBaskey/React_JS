@@ -11,4 +11,6 @@
   2. UserProfile
   3. StudentDetails
   4. InputDemo
+  e.preventDefault()
+  5. SimpleForm
 */
